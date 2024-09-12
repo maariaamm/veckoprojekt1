@@ -1,12 +1,12 @@
 ## Innehållsförteckning : 
 
 
-1. [Vad är Github?](Vad-är-Github?)
-2. [Vad är markdown?](Vad-är-markdown?)
+1. [Vad är Github?](#Vad-är-Github)
+2. [Vad är markdown?](#Vad-är-markdown)
 1. [Git kommandon lärda från föreläsning](#Git-kommandon-lärda-från-föreläsning)
 2. [Git kommandon lärda via research](#Git-kommandon-lärda-via-research)
-3. [Terminal kommandon lärda från föreläsning](#Terminal-kommandon-lärdafrån-föreläsning)
-4. [Terminal kommandon lärda via research](Terminal-kommandon-lärda-via-research) 
+3. [Terminalkommandon lärda från föreläsning](#Terminalkommandon-lärda-från-föreläsning)
+4. [Terminalkommandon lärda via research](#Terminalkommandon-lärda-via-research) 
 
 
 
